@@ -20,7 +20,9 @@ This project is perfect for practicing DOM manipulation, event listeners, and sc
 ---
 
 ## Demo Preview
-[10 Scroll Project]() 
+[10 Scroll Project](https://devliwa.github.io/10-scroll/) 
+<img width="1259" height="647" alt="Screenshot 2025-09-08 at 2 43 20 AM" src="https://github.com/user-attachments/assets/4d6f88e3-dbf2-4ef5-8221-fcfb519f8e52" />
+
 
 ---
 
